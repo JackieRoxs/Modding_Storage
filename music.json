@@ -1,0 +1,214 @@
+{
+	"text" :
+	{
+		"goToButtonText" :  { 
+			"fontSize" : 9,
+			"translation": {
+				"de": "Zu DJ3K!",
+				"en": "Go to DJ3K!",
+				"es": "¡Ir a DJ3K!",
+				"fr": "Va à DJ3K !",
+				"pt": "Ir pro DJ3K!"			
+			}
+		},
+		"dialogDescription" : { 
+			"fontSize" : 12,
+			"translation": {
+				"de": "Nimm in DJ3K deine eigenen Musikmixes auf und speichere sie.",
+				"en": "Record and save your own music mixes in DJ3K.",
+				"es": "Graba y guarda tus temas en DJ3K.",
+				"fr": "Enregistre tes propres mix dans DJ3K.",
+				"pt": "Grave e salve sua própria música no DJ3K."		
+			}
+		},
+		"dialogButtonText" : { 
+			"fontSize" : 9,
+			"translation": {
+				"de": "Los geht's!",
+				"en": "Go There!",
+				"es": "¡Ir allí!",
+				"fr": "Vas-y !",
+				"pt": "Ir pra lá!"		
+			}
+		},
+		"savedMixesText" : { 
+			"fontSize" : 18,
+			"translation": {
+				"de": "Meine Mixes",
+				"en": "My Saved Mixes",
+				"es": "Mis temas mezclados",
+				"fr": "Mes Mix",
+				"pt": "Minhas Músicas"		
+			}
+		},
+		"musicListText" : { 
+			"fontSize" : 18,
+			"translation": {
+				"de": "Musikliste",
+				"en": "Music List",
+				"es": "Lista musical",
+				"fr": "Liste de Musiques",
+				"pt": "Lista de Músicas"		
+			}
+		}
+	},
+	"songs" : 	
+	[
+	
+												{
+			"id" : 12290,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Puffle Party 2021 Suite",
+				"es": "Puffle Party 2021 Suite",
+				"fr": "Puffle Party 2021 Suite",
+				"pt": "Puffle Party 2021 Suite"
+			}
+		},	
+												{
+			"id" : 12291,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Puffle Party 2016",
+				"es": "Puffle Party 2016",
+				"fr": "Puffle Party 2016",
+				"pt": "Puffle Party 2016"
+			}
+		},	
+												{
+			"id" : 12292,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Gotta Have a Wingman",
+				"es": "Gotta Have a Wingman",
+				"fr": "Gotta Have a Wingman",
+				"pt": "Gotta Have a Wingman"
+			}
+		},	
+												{
+			"id" : 12293,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Puffle Ragtime",
+				"es": "Puffle Ragtime",
+				"fr": "Puffle Ragtime",
+				"pt": "Puffle Ragtime"
+			}
+		},	
+												{
+			"id" : 362,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Lobby!",
+				"es": "Lobby!",
+				"fr": "Noix de Coco",
+				"pt": "Lobby!"
+			}
+		},	
+												{
+			"id" : 361,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Spa!",
+				"es": "Spa!",
+				"fr": "Tam-tam Tempo",
+				"pt": "Spa!"
+			}
+		},
+												{
+			"id" : 360,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Roof!",
+				"es": "Roof!",
+				"fr": "Poisson d'Avril",
+				"pt": "Roof!"
+			}
+		},	
+		  										{
+			"id" : 749,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Puffle Mall",
+				"es": "Puffle Mall",
+				"fr": "Puffle Mall",
+				"pt": "Puffle Mall"
+			}
+		},	
+												{
+			"id" : 646,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Electric Ballet",
+				"es": "Electric Ballet",
+				"fr": "Pani Pwoblem",
+				"pt": "Electric Ballet"
+			}	
+		},	
+												{
+			"id" : 648,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Brown Puffle Lab",
+				"es": "Brown Puffle Lab",
+				"fr": "Au Carnaval des Monstres",
+				"pt": "Brown Puffle Lab"
+			}
+		},
+												{
+			"id" : 119,
+			"enabled": true,
+			"fontSize" : 11,
+			"translation": {
+				"en": "Ice Rescue",
+				"es": "Ice Rescue",
+				"fr": "Jazz de l'Épouvante",
+				"pt": "Ice Rescue"
+			}
+		},
+												{
+			"id" : 120,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Mine Rescue",
+				"es": "Mine Rescue",
+				"fr": "Pani Pwoblem",
+				"pt": "Mine Rescue"
+			}	
+		},
+												{
+			"id" : 34,
+			"enabled": true,
+			"fontSize" : 11,
+			"translation": {
+				"en": "Quest For The Golden Puffle",
+				"es": "Quest For The Golden Puffle",
+				"fr": "Jazz de l'Épouvante",
+				"pt": "Quest For The Golden Puffle"
+			}
+		},	
+												{
+			"id" : 878,
+			"enabled": true,
+			"fontSize" : 12,
+			"translation": {
+				"en": "Go Time!",
+				"es": "Go Time!",	
+				"fr": "Go Time!",
+				"pt": "Go Time!"
+			}
+		}		
+												
+	]
+}
