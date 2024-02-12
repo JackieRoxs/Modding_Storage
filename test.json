@@ -89,9 +89,9 @@
 			}
 		]
 	},
-	"town": {
+	"dance": {
 		"type": "fromPhysicsEditor",
-		"label": "town",
+		"label": "dance",
 		"isStatic": true,
 		"density": 0.1,
 		"restitution": 0,
