@@ -81138,10 +81138,6 @@
             "host": "",
             "path": "/world/blizzard"
         },
-		"Jackie": {
-            "host": "",
-            "path": "/world/Jackie"
-        },
         "Login": {
             "host": "",
             "login": true,
