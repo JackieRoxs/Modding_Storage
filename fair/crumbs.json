@@ -5136,7 +5136,7 @@
 			"member": 1,
 			"max": 99
 		},
-		"803": {
+		"4033": {
 			"name": "Festive Coffee Table",
 			"type": 1,
 			"sort": 1,
@@ -16061,7 +16061,7 @@
 			"cost": 0,
 			"member": 0
 		},
-		"803": {
+		"4033": {
 			"name": "Mission 2 Medal",
 			"type": 10,
 			"cost": 0,
@@ -21104,7 +21104,7 @@
 			"cost": 0,
 			"member": 0
 		},
-		"1803": {
+		"14033": {
 			"name": "Sambista",
 			"type": 2,
 			"cost": 0,
@@ -28662,7 +28662,7 @@
 			"cost": 375,
 			"member": 1
 		},
-		"4803": {
+		"44033": {
 			"name": "Navy Royale Tux",
 			"type": 5,
 			"cost": 550,
@@ -49898,7 +49898,7 @@
 									"name": "Brazil"
 								},
 								{
-									"id": 88030,
+									"id": 840330,
 									"name": "Chile"
 								},
 								{
@@ -50404,7 +50404,7 @@
 					"name": "Please go away"
 				},
 				{
-					"id": 803,
+					"id": 4033,
 					"name": "Stop that!"
 				},
 				{
@@ -65916,7 +65916,7 @@
 				},
 				"pufflepark/tireswing": {
 					"originX": -0.16,
-					"originY": 0.803
+					"originY": 0.4033
 				},
 				"tricks/jumpforward": {
 					"originX": -0.43,
@@ -66012,7 +66012,7 @@
 				},
 				"pufflepark/tireswing": {
 					"originX": -0.16,
-					"originY": 0.803
+					"originY": 0.4033
 				},
 				"tricks/jumpforward": {
 					"originX": -0.43,
