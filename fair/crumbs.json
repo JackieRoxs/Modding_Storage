@@ -61069,47 +61069,47 @@
 	"locations": {
 		"1": {
 			"name": "Default",
-			"cost": 1500
+			"cost": 0
 		},
 		"2": {
 			"name": "Beach",
-			"cost": 3000
+			"cost": 0
 		},
 		"3": {
 			"name": "Forest",
-			"cost": 3000
+			"cost": 0
 		},
 		"4": {
 			"name": "Aurora Borealis",
-			"cost": 3000
+			"cost": 0
 		},
 		"5": {
 			"name": "Age of Dinosaurs",
-			"cost": 3000
+			"cost": 0
 		},
 		"6": {
 			"name": "Distant Planet",
-			"cost": 3000
+			"cost": 0
 		},
 		"7": {
 			"name": "Soccer Pitch",
-			"cost": 3000
+			"cost": 0
 		},
 		"8": {
 			"name": "Undersea",
-			"cost": 3000
+			"cost": 0
 		},
 		"9": {
 			"name": "Wayback",
-			"cost": 7000
+			"cost": 0
 		},
 		"10": {
 			"name": "Sakura",
-			"cost": 7000
+			"cost": 0
 		},
 		"11": {
 			"name": "Calm Nights",
-			"cost": 3000
+			"cost": 0
 		},
 		"12": {
 			"name": "Mountain",
@@ -70970,13 +70970,13 @@
 			"id": 2,
 			"title": "G's Secret Mission",
 			"description": "G, THE BRILLIANT INVENTOR FOR THE\nPENGUIN SECRET AGENCY, NEEDS\nYOUR HELP WITH ONE OF HIS NEWEST\nPROJECTS. WHAT COULD G BE UP TO\nNOW?",
-			"award": 803
+			"award": 4033
 		},
 		{
 			"id": 3,
 			"title": "Case of the Missing Coins",
 			"description": "THE COINS FROM THE VAULT IN THE\nGIFT SHOP HAVE MYSTERIOUSLY\nGONE MISSING. WILL YOU HELP FIND\nTHEM AND SOLVE THE MYSTERY?",
-			"award": 805
+			"award": 35098
 		},
 		{
 			"id": 4,
